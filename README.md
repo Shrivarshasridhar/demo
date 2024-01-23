@@ -1,4 +1,5 @@
 # demo
 my first git repositry
 <br>
-AUTHOR:SHRIVARSHA
+AUTHOR:SHRIVARSHA shri
+
